@@ -1,0 +1,34 @@
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\bin\Debug\netcoreapp2.2\ModelCore.dll
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.csprojAssemblyReference.cache
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.csproj.CoreCompileInputs.cache
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.RazorAssemblyInfo.cache
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.RazorAssemblyInfo.cs
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.AssemblyInfoInputs.cache
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.AssemblyInfo.cs
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.RazorTargetAssemblyInfo.cache
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\bin\Debug\netcoreapp2.2\WebApiCore.deps.json
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\bin\Debug\netcoreapp2.2\WebApiCore.runtimeconfig.json
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\bin\Debug\netcoreapp2.2\WebApiCore.runtimeconfig.dev.json
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\bin\Debug\netcoreapp2.2\WebApiCore.dll
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\bin\Debug\netcoreapp2.2\WebApiCore.pdb
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\bin\Debug\netcoreapp2.2\ModelCore.pdb
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.csproj.CopyComplete
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.dll
+C:\Respositorio para CV\Microsoft .Net ( Framework, Core )\microsoft.projects\NetCoreProject\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.pdb
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\bin\Debug\netcoreapp2.2\WebApiCore.deps.json
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\bin\Debug\netcoreapp2.2\WebApiCore.runtimeconfig.json
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\bin\Debug\netcoreapp2.2\WebApiCore.runtimeconfig.dev.json
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\bin\Debug\netcoreapp2.2\WebApiCore.dll
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\bin\Debug\netcoreapp2.2\WebApiCore.pdb
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\bin\Debug\netcoreapp2.2\ModelCore.dll
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\bin\Debug\netcoreapp2.2\ModelCore.pdb
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.csprojAssemblyReference.cache
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.csproj.CoreCompileInputs.cache
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.RazorAssemblyInfo.cache
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.RazorAssemblyInfo.cs
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.AssemblyInfoInputs.cache
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.AssemblyInfo.cs
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.RazorTargetAssemblyInfo.cache
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.csproj.CopyComplete
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.dll
+C:\GENERAL DEVELOPER CV\projects\c#\WebApiCore\obj\Debug\netcoreapp2.2\WebApiCore.pdb
